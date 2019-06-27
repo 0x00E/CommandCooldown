@@ -1,0 +1,5 @@
+name: CommandCooldown
+main: com.github.qianniancc.CommandCooldown
+version: 1.0
+commands:
+  ccreload:

@@ -1,0 +1,11 @@
+#Powered By qianniancc
+NotReloadPerm: "&c&l你没有权限重置插件"
+ReloadOK: "&a&l重置成功"
+ReloadError: "&a&l重置失败"
+CCPrefix: "&c&l还有&e&l"
+CCSuffix: "&c&l秒冷却时间"
+#以上为提示信息
+CCAll: "false"
+#是否冷却全部 config.ini中为 *-冷却时间
+#如果开启此选项即config.ini中除*的冷却时间外都为独立
+#注:此为总冷却时间
